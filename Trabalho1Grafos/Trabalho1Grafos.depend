@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1734634122 source:c:\users\guilherme\desktop\estrutura de dados\grafos\trabalho1\trabalho1grafos\src\vertice.cpp
+	"Vertice.h"
+
+1734556825 c:\users\guilherme\desktop\estrutura de dados\grafos\trabalho1\trabalho1grafos\include\vertice.h
+
+1734634525 source:c:\users\guilherme\desktop\estrutura de dados\grafos\trabalho1\trabalho1grafos\main.cpp
+	<iostream>
+	"grafo_matriz.h"
+
+1734637028 c:\users\guilherme\desktop\estrutura de dados\grafos\trabalho1\trabalho1grafos\include\grafo_matriz.h
+
+1734554379 source:c:\users\guilherme\desktop\estrutura de dados\grafos\trabalho1\trabalho1grafos\src\grafo.cpp
+	<iostream>
+	"Grafo.h"
+
+1734634459 c:\users\guilherme\desktop\estrutura de dados\grafos\trabalho1\trabalho1grafos\include\grafo.h
+

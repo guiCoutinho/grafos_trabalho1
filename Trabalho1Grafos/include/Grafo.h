@@ -20,7 +20,7 @@ class Grafo
         bool possui_articulacao();
         bool possui_ponte();
         void carrega_grafo();
-        vois novo_grafo();
+        void novo_grafo();
 
     protected:
 

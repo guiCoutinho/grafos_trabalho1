@@ -11,23 +11,23 @@ Vertice::~Vertice()
     //dtor
 }
 
-Vertice::setValoresAresta(int IdDestino, int p)
+void Vertice::setValoresAresta(int IdDestino, int p)
 {
     IdVerticeDestino = IdDestino;
     Peso = p;
 }
 
-Vertice::setPeso(int p)
+void Vertice::setPeso(int p)
 {
     Peso = p;
 }
 
-Vertice::getIdArestaDestino()
+int Vertice::getIdArestaDestino()
 {
     return IdVerticeDestino;
 }
 
-Vertice::getPeso()
+int Vertice::getPeso()
 {
     return Peso;
 }
